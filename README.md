@@ -39,11 +39,10 @@
 ## 🎬 Demo
 <div align="center">
 
-<video controls width="100%">
-  <source src="https://raw.githubusercontent.com/sujaljoshi19/College_Assistant_Zeni/main/Video.mp4" type="video/mp4">
-</video>
+<video src="https://github.com/user-attachments/assets/bcbd070c-0c0b-4c71-b2bf-8c3994b13170" controls autoplay loop muted width="100%">
 
-<a href="https://github.com/sujaljoshi19/College_Assistant_Zeni/blob/main/Video.mp4">▶ Watch Zeni Demo Video</a>
+<a href="https://github.com/user-attachments/assets/bcbd070c-0c0b-4c71-b2bf-8c3994b13170">▶ Watch Zeni Demo Video</a>
+</video>
 
 *Zeni talking, lip-sync animation, bilingual responses, and robot control — live at GEHU Bhimtal*
 
