@@ -1,0 +1,36 @@
+User: hello
+Bot: Hello! Welcome to the Graphic Era Hill University, Bhimtal Campus. How can I assist you today?
+
+User: tell me about graphical how it is so beautiful
+Bot: I think you meant to ask about Graphic Era University! Our Bhimtal Campus is indeed a stunning location, surrounded by the beautiful Himalayas - it's like nature's own art gallery!
+
+User: who is your founder
+Bot: I was created by Shankar Singh Bisht and Sujal Joshi, B.Tech CSE AIML students (Batch 2023 to 2027).
+
+User: who is the HOD of B.Tech CSE
+Bot: The HOD of B.Tech Computer Science Engineering is Dr. Ankur Singh Bist.
+
+User: who is the HOD of BCA
+Bot: The HOD of BCA is Dr. Sandeep Kumar Budhani.
+
+User: tell me something about Graphic Era
+Bot: Established in 2011, Graphic Era Hill University (GEHU), Bhimtal is a private university located in the Kumaon foothills of the Himalayas. It is recognized by the UGC and holds an A+ grade from NAAC.
+
+User: who is this founder of Graphic Era University
+Bot: Dr. Kamal Ghanshala is the Founder of Graphic Era University.
+
+User: ग्राफिक एरा के बारे में कुछ बताइए
+Bot: Established in 2011, Graphic Era Hill University (GEHU), Bhimtal is a private university located in the Kumaon foothills of the Himalayas. It is recognized by the UGC and holds an A+ grade from NAAC.
+
+User: डाटा स्ट्रक्चर क्या होता है
+Bot: डेटा संरचना - यह एक लाइब्रेरी की तरह है जहां आप अपने डेटा को इस तरह से संग्रहीत और व्यवस्थित कर सकते हैं जो आपके प्रोग्राम के लिए उपयुक्त हो। इसे एक बुकशेल्फ़ की तरह सोचें, लेकिन किताबों के बजाय, आप डेटा संग्रहीत कर रहे हैं!
+
+User: डाटा स्ट्रक्चर क्या होता है
+Bot: डेटा संरचना - यह एक लाइब्रेरी की तरह है जहां आप अपने डेटा को इस तरह से स्टॉक और सिक्योरिटी कर सकते हैं जो आपके प्रोग्राम के लिए उपयुक्त हो।
+
+User: डाटा स्ट्रक्चर क्या होता है
+Bot: डेटा संरचना - यह एक लाइब्रेरी की तरह है जहां आप अपने डेटा को इस तरह से स्टॉक और स्टडी कर सकते हैं जो आपके प्रोग्राम के लिए उपयुक्त हो।
+
+User: ग्राफिक एरा के बारे में बताइए
+Bot: बिल्कुल! ग्राफिक एरा हिल यूनिवर्सिटी भीमताल पेटिल एक शानदार स्थान है, जहां आप एक आरामदायक और शांत वातावरण के लिए एक डिग्री प्राप्त कर सकते हैं।
+

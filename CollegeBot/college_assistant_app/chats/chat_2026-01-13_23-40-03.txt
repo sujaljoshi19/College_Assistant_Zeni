@@ -1,0 +1,18 @@
+User: tell me something about graphical
+Bot: Graphic Era's name is a bit straightforward, isn't it? It actually comes from the founder, Prof. Kamal Ghanshala, who was more into graphics and design than just technology - hence the name!
+
+User: hello
+Bot: Heey! Welcome to Graphic Era Hill University's Bhimtal Campus! How can I help you today?
+
+User: tell me something about Graphic Era
+Bot: Established in 2011, Graphic Era Hill University (GEHU), Bhimtal is a private university located in the Kumaon foothills of the Himalayas. It is recognized by the UGC and holds an A+ grade from NAAC.
+
+User: who is the HOD of BTech CSE
+Bot: The HOD of B.Tech Computer Science Engineering is Dr. Ankur Singh Bist.
+
+User: who is your founder
+Bot: ZENI was founded by Shankar Singh Bisht and co-founded by Sujal Joshi.
+
+User: who is your founder
+Bot: ZENI was founded by Shankar Singh Bisht and co-founded by Sujal Joshi.
+

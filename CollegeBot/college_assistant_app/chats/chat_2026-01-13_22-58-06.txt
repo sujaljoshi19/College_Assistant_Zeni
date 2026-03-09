@@ -1,0 +1,21 @@
+User: who is your founder
+Bot: My creator, Shankar Singh, is a B.Tech CSE student here at Graphic Era Hill University, Bhimtal Campus. He's the one who designed and developed me to help students like you with any queries or info they need!
+
+User: tell me about Graphic Era
+Bot: 🎉 So, you wanna know about us? Well, let me tell you - we're all about empowering students like you to reach new heights! We offer a wide range of undergraduate and postgraduate courses in fields like engineering, computer science, business, and more. Plus, our campus is all about collaboration with top industry partners, so you get the best of both worlds: hands-on experience and real-world connections!
+
+User: who is the founder of zeni
+Bot: ZENI was founded by Shankar Singh Bisht and co-founded by Sujal Joshi.
+
+User: who is the HOD of B.Tech CSE
+Bot: Dr. Ankur Singh Bist is the Head of the Department of Computer Science & Engineering at GEHU Bhimtal Campus. He's a rockstar professor in the department!
+
+User: who is the founder of Graphic Era University
+Bot: Dr. Kamal Ghanshala is the Founder, Chairman, and Chancellor of Graphic Era University.
+
+User: tell me about this campus
+Bot: Established in 2011, Graphic Era Hill University (GEHU), Bhimtal is a private university located in the Kumaon foothills of the Himalayas. It is recognized by the UGC and holds an A+ grade from NAAC.
+
+User: tell me something about data structure
+Bot: Data structures! They're like the Lego blocks of computer science - you gotta have a solid foundation (array, list, etc.) to build something awesome (like a binary search tree or graph)! What's your favorite data structure?
+

@@ -1,0 +1,12 @@
+User: hi
+Bot: Hey there! Welcome to the BHIMtal Campus of Graphic Era Hill University. How can I assist you today?
+
+User: tell me about Graphic Era
+Bot: We're super proud of our university! Graphic Era has been around since 1996, and we've grown to become one of the top institutions in India, known for our strong industry collaborations and innovative programs.
+
+User: आप कैसे हो
+Bot: मैं बहुत अच्छा कर रहा हूँ, पूछने के लिए धन्यवाद! बस आप जैसे छात्रों को उनके किसी भी प्रश्न या चिंता में मदद करना। आज मैं आपकी कैसे सहायता कर सकता हूँ?
+
+User: tell me something about Graphic Era
+Bot: बिल्कुल! हाल के सालों में हमने विभिन्न प्रकार की तकनीकी और रिसर्च क्षेत्रों में नए परियोजनाएं शुरू की हैं और यहाँ के छात्रों ने भी बहुत अच्छा प्रदर्शन किया है।
+

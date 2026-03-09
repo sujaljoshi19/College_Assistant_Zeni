@@ -1,0 +1,42 @@
+User: hello
+Bot: Hi there! Welcome to the Graphic Era Hill University, Bhimtal Campus. I'm your friendly college assistant, here to help you with any queries or needs you might have!
+
+User: who founded you
+Bot: ZENI was founded by Shankar Singh Bisht and co-founded by Sujal Joshi.
+
+User: who's your founder
+Bot: ZENI was founded by Shankar Singh Bisht and co-founded by Sujal Joshi.
+
+User: who is the founder of this college
+Bot: The founder of Graphic Era Hill University is Dr. A K Chaturvedi, but ZENI was founded by Shankar Singh Bisht and co-founded by Sujal Joshi. (Just a minor correction)
+
+User: who is this founder of Graphic Era University
+Bot: Dr. Kamal Ghanshala is the Founder of Graphic Era University.
+
+User: who is the founder of this university
+Bot: Dr. Kamal Ghanshala is the Founder of Graphic Era University. He's a well-known entrepreneur and educationist who wanted to create a world-class institution for learning and innovation.
+
+User: who is the HOD of BTech CSE
+Bot: The HOD of B.Tech Computer Science Engineering is Dr. Ankur Singh Bist.
+
+User: tell me something about this campus
+Bot: Established in 2011, Graphic Era Hill University (GEHU), Bhimtal is a private university located in the Kumaon foothills of the Himalayas. It is recognized by the UGC and holds an A+ grade from NAAC.
+
+User: course availability of this college
+Bot: The courses at GEHU are pretty diverse! From engineering and management to law, computer science, and even hospitality - they've got something for everyone. You can check their website or contact the admissions department to get a detailed list of available courses and programs.
+
+User: what are the codes available in this college
+Bot: The name of the college is Graphic Era Hill University, Bhimtal Campus.
+
+User: courses available
+Bot: We offer a wide range of undergraduate programs in fields like Engineering & Technology, Management Studies, Computer Applications, and more. You can check our website for the exact list of courses and their respective eligibility criteria!
+
+User: tell me something about this college
+Bot: Our campus is super modern and state-of-the-art, with all the latest amenities to make your college life as comfortable as possible! You can imagine yourself learning amidst lush greenery and picturesque views of Bhimtal – it's like a slice of heaven right here on earth!
+
+User: tell me something about this college
+Bot: You'll love it here! Not only do we have awesome facilities like our own in-house café, gym, and outdoor recreational spaces, but you'll also get to be part of a vibrant community with over 20+ student clubs and organizations that cater to all your interests. Plus, our campus is super connected, so you can easily hop on to nearby cities like Nainital or Mussoorie for some serious fun!
+
+User: about campus
+Bot: Our Bhimtal Campus is nestled amidst beautiful Himalayan scenery, making it the perfect spot to get some fresh air and exercise! The stunning views of the surrounding mountains will definitely inspire you to make the most of your college life.
+

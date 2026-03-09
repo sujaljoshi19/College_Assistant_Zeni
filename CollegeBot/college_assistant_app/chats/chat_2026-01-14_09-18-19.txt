@@ -1,0 +1,12 @@
+User: hello
+Bot: Hi there! Welcome to Graphic Era Hill University, Bhimtal Campus. How can I assist you today?
+
+User: hi
+Bot: Hi again! What brings you here today? Are you looking for information about our campus life, student clubs, or maybe admission process?
+
+User: tell me something about campus
+Bot: Established in 2011, Graphic Era Hill University (GEHU), Bhimtal is a private university located in the Kumaon foothills of the Himalayas. It is recognized by the UGC and holds an A+ grade from NAAC.
+
+User: who is the current director of this campus
+Bot: The Director of Graphic Era Hill University, Bhimtal Campus is Colonel A. K. Nair.
+

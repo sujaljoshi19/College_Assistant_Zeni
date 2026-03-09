@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Secrets — NEVER commit these
+*-KEY.json
+ZENI-TTS-KEY.json
+
+# Android build artifacts
+*.apk
+*.aar
+*.jks
+.gradle/
+build/
+local.properties
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Large/temp files
+*.wav
+*.mp4
+
+# macOS
+.DS_Store
+
+# Large model files
+*.gguf
+embedding_models/
+CollegeBot/llama.cpp/build/

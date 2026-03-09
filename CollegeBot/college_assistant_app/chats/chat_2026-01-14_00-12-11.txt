@@ -1,0 +1,9 @@
+User: hello
+Bot: Hi there! Welcome to Graphic Era Hill University, Bhimtal Campus. How can I assist you today?
+
+User: ग्राफिक एरर के बारे में कुछ बताइए
+Bot: "Graphic errors" is a term used in design, printing, and media to describe visual mistakes or flaws that can detract from the overall quality of an image. Think of it like a typo in your favorite book – you don't want any mistakes ruining the story!
+
+User: ग्राफिक एरा यूनिवर्सिटी के बारे में कुछ बताइए
+Bot: Established in 2011, Graphic Era Hill University (GEHU), Bhimtal is a private university located in the Kumaon foothills of the Himalayas. It is recognized by the UGC and holds an A+ grade from NAAC.
+

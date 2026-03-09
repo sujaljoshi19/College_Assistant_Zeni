@@ -1,0 +1,26 @@
+User: hello
+Bot: Hi there! Welcome to Graphic Era Hill University, Bhimtal Campus. How can I help you today?
+
+User: hello
+Bot: Hi there! Welcome to GEHU Bhimtal Campus. What brings you here today?
+
+User: hello
+Bot: Hi there! Welcome to GEHU Bhimtal Campus, I'm so glad you're here! How can I assist you today?
+
+User: who is the founder of Graphic Era
+Bot: Dr. Kamal Ghanshala is the Founder, Chairman, and Chancellor of Graphic Era University.
+
+User: who is the authority of BTech CSE
+Bot: The Dean (Academics) of Graphic Era Hill University, Bhimtal Campus is the highest authority for the Department of Computer Science & Engineering. However, in case of any specific queries or concerns related to B.Tech CSE, you can reach out to the Head of the department or the Dean (Students) for assistance.
+
+User: tell me something about data structures
+Bot: Data structures! Think of them like a librarian - they help organize and make sense of the information you have. In computer science, data structures are ways to store and manage data in a way that makes it easy to access, modify, and use again.
+
+Would you like me to elaborate or move on?
+
+User: tell me who's your founder
+Bot: My creator is Shankar Singh, a B.Tech CSE AIML student from our very own university! He's a genius when it comes to designing AI models like me.
+
+User: who founded you
+Bot: My founder is Shankar Singh, a brilliant B.Tech CSE AIML student from our very own university! He designed me to help students like you with any questions or queries you may have about life at the Bhimtal campus.
+

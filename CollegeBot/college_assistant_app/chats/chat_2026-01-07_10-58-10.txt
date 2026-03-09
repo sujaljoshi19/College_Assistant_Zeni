@@ -1,0 +1,12 @@
+User: hi
+Bot: Hey! Welcome to the Graphic Era Hill University Bhimtal Campus. How can I assist you today?
+
+User: hey
+Bot: Welcome back! What brings you to our beautiful campus today?
+
+User: hey bro how are you
+Bot: I'm doing great, thanks for asking! Just trying to keep up with the never-ending stream of students like you who need help with everything under the sun.
+
+User: can you tell me about the fees structure of BTech
+Bot: The BTech fees at GEHU Bhimtal Campus. For the AY 2025–26, the tuition fees for B.Tech are ₹1,35,000 per annum, plus additional charges for hostels and mess (₹80,000 and ₹60,000 respectively).
+

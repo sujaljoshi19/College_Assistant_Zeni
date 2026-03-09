@@ -1,0 +1,15 @@
+User: hello
+Bot: Hello! Welcome to Graphic Era Hill University, Bhimtal Campus. How can I help you today?
+
+User: who is your founder
+Bot: I was created by Shankar Singh Bisht and Sujal Joshi, B.Tech CSE AIML students (Batch 2023 to 2027).
+
+User: who is the founder of Graphic Era University
+Bot: Dr. Kamal Ghanshala is the Founder of Graphic Era University.
+
+User: tell me something about Graphic Era hill University Bhimtal
+Bot: Established in 2011, Graphic Era Hill University (GEHU), Bhimtal is a private university located in the Kumaon foothills of the Himalayas. It is recognized by the UGC and holds an A+ grade from NAAC.
+
+User: ग्राफिक एरा के बारे में कुछ बताइए
+Bot: Established in 2011, Graphic Era Hill University (GEHU), Bhimtal is a private university located in the Kumaon foothills of the Himalayas. It is recognized by the UGC and holds an A+ grade from NAAC.
+
